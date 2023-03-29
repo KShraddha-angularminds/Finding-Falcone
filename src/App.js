@@ -5,10 +5,6 @@ function App() {
   return (
     <div>
       <div className="App">hello 1</div>
-      <div className="App">2</div>
-      <div className="App">678</div>
-      <div className="App">4</div>
-      <div className="App">5</div>
     </div>
   );
 }
